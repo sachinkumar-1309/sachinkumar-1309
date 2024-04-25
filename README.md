@@ -20,14 +20,14 @@ I'm a front-end developer with a passion for building engaging and user-friendly
   - Allows users to update their posts with ease, ensuring content remains relevant and up-to-date.
   - Utilizes Appwrite services as the backend solution, leveraging its robust features for storing user data securely.
   - Ensures user details and preferences are saved persistently for a personalized browsing experience.
-- [GitHub Repository](https://github.com/sachinkumar-1309/Mega-Blog.git)
+  - [GitHub Repository](https://github.com/sachinkumar-1309/Mega-Blog.git)
 
 ### 🎬 Netflix Clone
 - **Description:**
   - A clone of the popular streaming platform Netflix, built with React JS, Tailwind CSS, redux-toolkit.
   - Includes a language selector for toggling between English and Hindi.
   - Implements routing for various sections like login, forgot password, etc.
-- [GitHub Repository](https://github.com/sachinkumar-1309/Netflix-Clone.git)
+  - [GitHub Repository](https://github.com/sachinkumar-1309/Netflix-Clone.git)
 
 ### ✅ TODO App
 - **Description:**
@@ -35,7 +35,7 @@ I'm a front-end developer with a passion for building engaging and user-friendly
   - Enables effortless creation, editing, and deletion of tasks for streamlined organization.
   - Features a clean and minimalist UI for enhanced productivity and ease of use.
   - Uses Redux Toolkit for advanced state management, ensuring smooth task handling.
-- [GitHub Repository](https://github.com/sachinkumar-1309/TODO-app.git)
+  - [GitHub Repository](https://github.com/sachinkumar-1309/TODO-app.git)
 
 ### ➕ Additional Projects
 1. **Currency Converter:** A web application to convert currencies, built using React JS.
