@@ -5,10 +5,13 @@ I'm a front-end developer with a passion for building engaging and user-friendly
 
 ## 💻 Skills
 - React JS
+- Next JS
+- Mongo DB
+- Express JS
 - Tailwind CSS
-- Redux
 - Redux Toolkit
 - Context APIs
+
 
 ## 🛠️ Projects
 ### 📝 Blog Website with Appwrite Services
