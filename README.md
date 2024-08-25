@@ -1,16 +1,65 @@
-# Hi there, I'm Sachin Kumar Gupta! 👋
+![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?t=st=1724584853~exp=1724588453~hmac=2d5cbf991ae8eda5999e6acbb99cec40bdf474b965db0606b2272de523486357&w=1380)
+<h1 align="center">Hi 👋, I'm Sachin Kumar Gupta</h1>
 
-## 💡 About Me
-I'm a front-end developer with a passion for building engaging and user-friendly web applications. Currently, I'm expanding my skills into backend development to create full-stack applications. 
 
-## 💻 Skills
-- React JS
-- Next JS
-- Mongo DB
-- Express JS
-- Tailwind CSS
-- Redux Toolkit
-- Context APIs
+
+<h3 align="center">I'm a full-stack developer with a strong foundation in both front-end and back-end technologies. Having successfully completed my backend development journey, I'm now focused on mastering Data Structures and Algorithms (DSA) to enhance my problem-solving skills and technical expertise.</h3>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40" style="background-color: white; border-radius: 5px;"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a> 
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40" style="background-color: white; border-radius: 5px;"/> 
+  </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40" style="background-color: white; border-radius: 5px;"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> 
+  </a>
+</p>
+
 
 ## GitHub Stats
 
@@ -31,30 +80,31 @@ I'm a front-end developer with a passion for building engaging and user-friendly
   - [GitHub Repository](https://github.com/sachinkumar-1309/Mega-Blog.git)
   - [Link](https://blog-webstite-by-sachin.netlify.app/)
 
-### 🎬 Netflix Clone
+### 🎬 Music school
 - **Description:**
-  - A clone of the popular streaming platform Netflix, built with React JS, Tailwind CSS, redux-toolkit.
-  - Includes a language selector for toggling between English and Hindi.
-  - Implements routing for various sections like login, forgot password, etc.
-  - [GitHub Repository](https://github.com/sachinkumar-1309/Netflix-Clone.git)
+ - Developed a comprehensive music edtech platform using Next.js, Tailwind CSS, Redux Toolkit, and Zod validation.
+ - Implemented features for selling courses, organizing events, and showcasing a diverse range of instructors.
+ - Integrated user authentication with sign-up, login, and logout functionalities, storing user details in a MongoDB database.
+ - Ensured secure access with protected routing, restricting access to certain routes for logged-out users.
+ - Enhanced user experience with robust state management and validation for reliability and performance
+  - [GitHub Repository](https://github.com/sachinkumar-1309/music-school.git)
   - [Link]()
 
-
-### ✅ TODO App
+### ✅ Chess App
 - **Description:**
-  - Intuitive TODO app with React JS and Redux Toolkit.
-  - Effortless task management with clean UI.
+  -Real-Time Multiplayer Experience: Engage in thrilling chess matches with players across the globe in real-time, powered by Socket.io for seamless, instant communication.
+  -Dynamic and Interactive UI: Built with EJS and Express.js, our app offers a sleek, responsive interface, making your gameplay experience smooth and visually appealing.
+  -Robust Backend Architecture: Leveraging Node.js and Express.js, our app ensures fast, reliable performance, handling multiple games and users simultaneously with ease.
   - [GitHub Repository](https://github.com/sachinkumar-1309/TODO-app.git)
   - [Link](https://todo-local-da6e2.firebaseapp.com/)
 
 ### ➕ Additional Projects
-1. **Currency Converter:** React-based currency converter.
-2. **Password Generator:** React tool for secure password generation.
-3. **TODO App using Redux Toolkit:** Advanced task manager.
-4. **WhatsApp UI Clone:** WhatsApp UI clone with JavaScript.
+1. **NetFlix Clone:** Responsive and authenticated Clone.
+2. **Currency Converter:** React-based currency converter.
+3. **Password Generator:** React tool for secure password generation.
+4. **TODO App using Redux Toolkit:** Advanced task manager.
+5. **WhatsApp UI Clone:** WhatsApp UI clone with JavaScript.
 
-## 🌱 Currently Learning
-Expanding backend skills to become a full-stack developer.
 
 ## 📫 How to Reach Me
 - 💼 LinkedIn: [Sachin Kumar Gupta](https://www.linkedin.com/in/sachin-kumar-gupta-34b2b8243/)
