@@ -12,6 +12,14 @@ I'm a front-end developer with a passion for building engaging and user-friendly
 - Redux Toolkit
 - Context APIs
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinkumar-1309&show_icons=true&theme=dark)
+
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumar-1309&layout=compact&theme=dark)
+
 
 ## 🛠️ Projects
 ### 📝 Blog Website with Appwrite Services
