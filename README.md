@@ -1,9 +1,9 @@
 ![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?t=st=1724584853~exp=1724588453~hmac=2d5cbf991ae8eda5999e6acbb99cec40bdf474b965db0606b2272de523486357&w=1380)
-<h1 align="center">Hi 👋, I'm Sachin Kumar Gupta</h1>
+<h1 align="center">Hi 👋 I'm Sachin Kumar Gupta</h1>
 
 
 
-<h3 align="center">I'm a full-stack developer with a strong foundation in both front-end and back-end technologies. Having successfully completed my backend development journey, I'm now focused on mastering Data Structures and Algorithms (DSA) to enhance my problem-solving skills and technical expertise.</h3>
+<h3 align="center">I'm a Full-Stack Developer with a strong foundation in both Front-end and Back-end technologies. Having successfully completed my backend development journey, I'm now focused on mastering Data Structures and Algorithms (DSA) to enhance my problem-solving skills and technical expertise.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
