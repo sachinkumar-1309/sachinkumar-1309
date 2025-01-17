@@ -63,47 +63,11 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinkumar-1309&show_icons=true&theme=dark)
-
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumar-1309&layout=compact&theme=dark)
-
-
-## 🛠️ Projects
-### 📝 Blog Website with Appwrite Services
-- **Description:**
-  - Rich blog using React JS, Tailwind CSS, Redux-toolkit.
-  - Secure authentication & user-friendly interface.
-  - User can create, publish, update posts.
-  - Backend powered by Appwrite for secure data storage.
-  - [GitHub Repository](https://github.com/sachinkumar-1309/Mega-Blog.git)
-  - [Link](https://blog-webstite-by-sachin.netlify.app/)
-
-### 🎬 Music school
-- **Description:**
- - Developed a comprehensive music edtech platform using Next.js, Tailwind CSS, Redux Toolkit, and Zod validation.
- - Implemented features for selling courses, organizing events, and showcasing a diverse range of instructors.
- - Integrated user authentication with sign-up, login, and logout functionalities, storing user details in a MongoDB database.
- - Ensured secure access with protected routing, restricting access to certain routes for logged-out users.
- - Enhanced user experience with robust state management and validation for reliability and performance
-  - [GitHub Repository](https://github.com/sachinkumar-1309/music-school.git)
-  - [Link]()
-
-### ✅ Chess App
-- **Description:**
-  -Real-Time Multiplayer Experience: Engage in thrilling chess matches with players across the globe in real-time, powered by Socket.io for seamless, instant communication.
-  -Dynamic and Interactive UI: Built with EJS and Express.js, our app offers a sleek, responsive interface, making your gameplay experience smooth and visually appealing.
-  -Robust Backend Architecture: Leveraging Node.js and Express.js, our app ensures fast, reliable performance, handling multiple games and users simultaneously with ease.
-  - [GitHub Repository](https://github.com/sachinkumar-1309/TODO-app.git)
-  - [Link](https://todo-local-da6e2.firebaseapp.com/)
-
-### ➕ Additional Projects
-1. **NetFlix Clone:** Responsive and authenticated Clone.
-2. **Currency Converter:** React-based currency converter.
-3. **Password Generator:** React tool for secure password generation.
-4. **TODO App using Redux Toolkit:** Advanced task manager.
-5. **WhatsApp UI Clone:** WhatsApp UI clone with JavaScript.
+<div style="display: flex; flex-wrap: wrap;  flex-direction: row; justify-content: between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinkumar-1309&show_icons=true&theme=dark" alt="GitHub Stats"   />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumar-1309&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
 
 ## 📫 How to Reach Me
