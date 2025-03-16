@@ -43,10 +43,10 @@
 
 ## GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinkumar-1309&show_icons=true&theme=dark&hide_border=true&border_radius=5" alt="GitHub Stats" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinkumar-1309&show_icons=true&theme=dark&hide_border=true&border_radius=5&card_width=420" alt="GitHub Stats" />
   
-  <img src="https://streak-stats.demolab.com?user=sachinkumar-1309&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=sachinkumar-1309&theme=dark&hide_border=true&border_radius=5&card_width=420" alt="GitHub Streak Stats" />
 </div>
 
 
