@@ -50,10 +50,10 @@
 
 
 
-## 📫 How to Reach Me
+<!--## 📫 How to Reach Me
 - 💼 LinkedIn: [Sachin Kumar Gupta](https://www.linkedin.com/in/sachin-kumar-gupta-34b2b8243/)
 - 🐦 Twitter: [sachinkg1309](https://x.com/sachinkg1309?t=QKrkMRdMtEqEba6REeifOA&s=09)
-- 🔗 Website: [Website](https://your-website.com)
+- 🔗 Website: [Website](https://your-website.com)-->
 
 Feel free to reach out! 😊
 
