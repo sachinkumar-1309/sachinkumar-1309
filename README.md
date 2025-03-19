@@ -46,8 +46,8 @@
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinkumar-1309&show_icons=true&theme=dark&hide_border=true&border_radius=5&card_width=400" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=sachinkumar-1309&theme=dark&hide_border=true&border_radius=5&card_width=400" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinkg-13&show_icons=true&theme=dark&hide_border=true&border_radius=5&card_width=450" alt="GitHub Stats"  width="49%" />
+  <img src="https://streak-stats.demolab.com?user=sachinkg-13&theme=dark&hide_border=true&border_radius=5&card_width=450" alt="GitHub Streak Stats"  width="49%" />
 </p>
 
 
