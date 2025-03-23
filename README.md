@@ -5,9 +5,13 @@
 
 <h3 align="center">I'm a Full-Stack Developer with a strong foundation in both Front-end and Back-end technologies. Having successfully completed my backend development journey, I'm now focused on mastering Data Structures and Algorithms (DSA) to enhance my problem-solving skills and technical expertise.</h3>
 
-![Profile Summary](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=FF8B3D,D45E1B&width=100%)
-
 <!-- <img src="https://komarev.com/ghpvc/?username=sachinkumar-1309&style=for-the-badge&color=FF8B3D" alt="profile views" /> -->
+<p align="center">
+ <img  src="https://komarev.com/ghpvc/?username=sachinkg-13&style=for-the-badge&color=lightgrey&style=pixel" alt="profile views" /> 
+</p>
+
+ 
+![Profile Summary](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=FF8B3D,D45E1B&width=100%)
 
 ## Technologies 
 
